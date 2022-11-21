@@ -1,0 +1,1 @@
+This project aims to Build an application interface for a Currency Converter, featuring the 6 major international currencies.
